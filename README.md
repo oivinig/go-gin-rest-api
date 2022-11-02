@@ -13,7 +13,10 @@ Simple REST API using Go, Gin-Gonic, GORM, framework and PostgreSQL.
 ### Setup
 
 1. Clone the repository
-2. Run the command:
-    ``` docker-compose up
+0. Run the command:
+
+```docker
+docker-compose up
+```
 
 3. Start the server
