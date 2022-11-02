@@ -2,7 +2,7 @@
 
 ## About the Project
 
-Simple REST API using Go, Gin-Gonic framework and PostgreSQL.
+Simple REST API using Go, Gin-Gonic, GORM, framework and PostgreSQL.
 
 ### Requirements
 
@@ -13,5 +13,7 @@ Simple REST API using Go, Gin-Gonic framework and PostgreSQL.
 ### Setup
 
 1. Clone the repository
-2. Run the command: ```docker-compose up
+2. Run the command:
+     ```docker-compose up
+
 3. Start the server
