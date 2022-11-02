@@ -2,7 +2,7 @@
 
 ## About the Project
 
-Simple REST API using Go, Gin-Gonic framework, GORM and PostgreSQL.
+Simple REST API using Go, Gin-Gonic framework and PostgreSQL.
 
 ### Requirements
 
